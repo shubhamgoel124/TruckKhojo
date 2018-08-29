@@ -1,0 +1,3 @@
+# TruckKhojo
+TruckKhojo is an online platform which will help to bridge the gap between Brokers, Truck Owners, Truck Drivers and Users.
+TruckKhojo is an integrated solution to help customers and transporters. It provides seamless information sharing to the transportation and brokers or customers in industry. It forms a vital link between transporter, brokers and customer. The mission is to be part of the daily life of the transporter, brokers and customer to easy out the points of tension. Its service will help to make movement of the material and transport vehicles smoothly. This will help the full truck load companies, flat trailers, specialty chemical tankers, container movement companies to get their best utilization of the resources.
